@@ -1,5 +1,3 @@
-// Geliştirici: Türkan Özmen
-// Öğrenci No: B221200036
 // Ödev No: 3
 // Ödev Konusu: Sipariş Planlama
 
